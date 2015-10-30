@@ -1,7 +1,7 @@
 # Waitup - Delays and retries within Promise chains
 
 [![NPM Version](https://badge.fury.io/js/waitup.svg)](https://www.npmjs.com/package/waitup)
-[![Build Status](https://api.travis-ci.org/sqmk/waipt.svg?branch=master)](https://travis-ci.org/sqmk/waitup)
+[![Build Status](https://api.travis-ci.org/sqmk/waitup.svg?branch=master)](https://travis-ci.org/sqmk/waitup)
 
 > Wait up for whatever.
 
