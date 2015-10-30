@@ -46,7 +46,7 @@ Calling waitup returns a **Promise**. The default delay is **1 second** (1000 mi
 Waitup can also be configured to wait for the completion of an operation. A callback
 can be provided to waitup's *for* option. This callback accepts a single argument
 for the *waitee*. When the operation is considered complete, return the value of
-*waitee.done()*. An option result can be provided to *waitee.done()* to forward
+*waitee.done()*. An optional result can be provided to *waitee.done()* to forward
 to the resolved promise.
 
 ```js
