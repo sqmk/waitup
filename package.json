@@ -1,0 +1,30 @@
+{
+  "name": "waitup",
+  "version": "0.1.0",
+  "description": "Delays and retries within Promise chains",
+  "keywords": [
+    "promise",
+    "sleep",
+    "conditional",
+    "delay"
+  ],
+  "maintainers": [
+    "Michael Squires <sqmk@php.net>"
+  ],
+  "license": "MIT",
+  "repository": "sqmk/waitup",
+  "main": "lib/Waitup.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha":            "2.3.2",
+    "chai":             "3.2.0",
+    "chai-as-promised": "5.1.0",
+    "sinon":            "1.17.0",
+    "mockery":          "1.4.0"
+  }
+}
