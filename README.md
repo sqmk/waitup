@@ -35,7 +35,7 @@ waitup(5000)
     });
   })
   .then(() => {
-    console.log('Waited aproximately 2.5 seconds this time...');
+    console.log('Waited approximately 2.5 seconds this time...');
   });
 ```
 
