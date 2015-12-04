@@ -105,6 +105,10 @@ the application could run indefinitely.
 
 See more examples in the [examples](examples) directory.
 
+## Logo
+
+Waitup's initial logo was designed by scorpion6 on Fiverr. Font used is Lato Light.
+
 ## License
 
 This software is licensed under the MIT License. [View the license](LICENSE).
