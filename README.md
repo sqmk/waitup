@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.rawgit.com/sqmk/waitup/a4f799a5b7b572f5cf48160b21ab54bc68d0d338/media/logo.svg" alt="Waitup" />
+</p>
+
 # Waitup - Delays and retries within Promise chains
 
 [![NPM Version](https://badge.fury.io/js/waitup.svg)](https://www.npmjs.com/package/waitup)
